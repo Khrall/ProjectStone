@@ -32,18 +32,18 @@ _NOTE:_ Before attempting to read the pseudo-code, you should study the other cl
   int currentPlayer, currentUnit, currentStep
   
   //TODO: Create constructor: public Battle()
-  //Input: The attacker and its units along with the defender and its units
-  //Does: Initializes all fields
+  Input: The attacker and its units along with the defender and its units
+  Does: Initializes all fields
   
   //TODO: Create function: void executeActions()
-  //Does: Loops through battleActions and executes them all. Implement randomability of magnitude based on units attributes and playerbonuses
+  Does: Loops through battleActions and executes them all. Implement randomability of magnitude based on units attributes and playerbonuses
   
   //TODO: Create function: void KeyReleased()
-  //Does: Checks if the key released should have effect, and execute if possible according to currentPlayer, currentUnit and currentStep
-  //Note: If this function changes the step of combat, you should run outputString() defined belwo
+  Does: Checks if the key released should have effect, and execute if possible according to currentPlayer, currentUnit and currentStep
+  Note: If this function changes the step of combat, you should run outputString() defined belwo
   
   //TODO: Create function: string outputString()
-  //Does: In according to the current step of combat, create an outputString relevant for the situation of the player.
+  Does: In according to the current step of combat, create an outputString relevant for the situation of the player.
   
   //TODO: Create helper methods to simplify code.
   ```
