@@ -5,15 +5,30 @@ This document holds the steps towards completion of Project Stone. It is not ver
 ###Table of Contents###
 
 - [Data](#data)
-- [Map development](#map-development) [0%]
+- [Art development](#art-development) [0%]
+    - [Inanimate sprites](#inanimate-sprites) [0%]
+    - [Interactive sprites](#interactive-sprites) [0%]
+    - [Unit sprites](#unit-sprites) [0%]
+    - [GUI sprites](#gui-sprites) [0%]
+- [Game development](#game-development) [0%]
     - [Tile](#tile) [0%]
     - [GameObject](#gameobject) [0%]
         - [InanimateObject](#inanimateobject) [0%]
         - [InteractiveObject](#interactiveobject) [0%]
         - [UnitObject](#unitobject) [0%]
-- [Battle development](#battle-development) [0%]
-    - [BattleAbility](#battleability)
-    - [BattleAction](#battleaction)
+    - [Player](#player) [0%]
+    - [Battle development](#battle-development) [0%]
+        - [BattleAbility](#battleability) [0%]
+        - [BattleAction](#battleaction) [0%]
+    - [City](#city) [0%]
+- Client/Host development [0%]
+    - GameClient(#gameclient) [0%]
+    - GameHost(#gamehost) [0%]
+- [ChaosEngine](#chaosengine) [0%]
+- GUI + Menu [0%]
+    - [GUI](#gui) [0%]
+    - [GameMenu](#gamemenu)
+
 
 ##Data##
 
