@@ -22,7 +22,28 @@ For each unit, the player must:
 When the player has ordered each of its units, all the BattleActions are executed. If this does not finish the battle (kill the remaining opponents' units), the turn will be passed to the opponent.
 
 ###Pseudo-code###
-  
+
+_NOTE:_ Before attempting to read the pseudo-code, you should study the other classes: [BattleAbility](ability/), [BattleAction](action/), [Player](/player) and [Unit](/unit).
+
   ```java
-  //TODO: Make pseudo-code
+  list players
+  map (player, list of units)
+  list battleActions
+  int currentPlayer, currentUnit, currentStep
+  
+  //TODO: Create constructor: public Battle()
+  //Input: The attacker and its units along with the defender and its units
+  //Does: Initializes all fields
+  
+  //TODO: Create function: void executeActions()
+  //Does: Loops through battleActions and executes them all. Implement randomability of magnitude based on units attributes and playerbonuses
+  
+  //TODO: Create function: void KeyReleased()
+  //Does: Checks if the key released should have effect, and execute if possible according to currentPlayer, currentUnit and currentStep
+  //Note: If this function changes the step of combat, you should run outputString() defined belwo
+  
+  //TODO: Create function: string outputString()
+  //Does: In according to the current step of combat, create an outputString relevant for the situation of the player.
+  
+  //TODO: Create helper methods to simplify code.
   ```
