@@ -10,7 +10,7 @@ The Unit class will be far more complicated than the one provided here, but we d
 
   ```java
   int hp, mp, attack, defense, etc ..
-  list availableabilities
+  list availableAbilities
   string name
   
   //TODO: Create constructor, simply assigns attributes, available abilities and name
