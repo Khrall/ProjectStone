@@ -4,14 +4,14 @@ This document holds the steps towards completion of Project Stone. It is not ver
 
 ###Table of Contents###
 
-1. [Data](#data)
-2. [Map development](#map-development) [0%]
-    1. [Tile](#tile) [0%]
-    2. [GameObject](#gameobject) [0%]
-        1. [InanimateObject](#inanimateobject) [0%]
-        2. [InteractiveObject](#interactiveobject) [0%]
-        3. [UnitObject](#unitobject) [0%]
-3. [Battle development](#battle-development) [0%]    
+- [Data](#data)
+- [Map development](#map-development) [0%]
+    - [Tile](#tile) [0%]
+    - [GameObject](#gameobject) [0%]
+        - [InanimateObject](#inanimateobject) [0%]
+        - [InteractiveObject](#interactiveobject) [0%]
+        - [UnitObject](#unitobject) [0%]
+- [Battle development](#battle-development) [0%]    
 
 ##Data##
 
