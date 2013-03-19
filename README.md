@@ -1,6 +1,6 @@
 #Project Stone#
 
-This is a game development project going by the name of “Project Stone”, a hand-in assignment from the programming course TDT4100 at NTNU, Trondheim. Its main focus is on being a crossover between the classical tactical role-playing and the turn-based strategy genre, featuring multiplayer gameplay. The project is due 24th of April, but will most likely be revised further later on and hopefully updated frequently when “finished”.
+This is a game development project going by the name of “Project Stone”, a hand-in assignment from the programming course TDT4100 at NTNU, Trondheim. Its main focus is on being a crossover between the classical tactical role-playing and the turn-based strategy genres, featuring multiplayer gameplay. The project is due 24th of April, but will most likely be revised further later on and hopefully updated frequently when “finished”.
 
 ###Table of Contents###
 
