@@ -63,10 +63,10 @@ The battle feature is quite essential for the game to be interesting at all. It 
 
 Battle abilities are pretty much abilities used in battle. They can be harmful or beneficial in various ways, and have different ranges targets and magnitudes.
 
-<sup>Battle: [folder](battle/ability) | [description](battle/ability#description) | [pseudo-code](battle/ability#pseudo-code)</sup>
+<sup>BattleAbility: [folder](battle/ability) | [description](battle/ability#description) | [pseudo-code](battle/ability#pseudo-code)</sup>
 
 ###BattleAction###
 
 Battle actions are simply a way to store information about what's going to happen when the player has ordered his units.
 
-<sup>Battle: [folder](battle/action) | [description](battle/action#description) | [pseudo-code](battle/action#pseudo-code)</sup>
+<sup>BattleAction: [folder](battle/action) | [description](battle/action#description) | [pseudo-code](battle/action#pseudo-code)</sup>
