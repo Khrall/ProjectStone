@@ -55,4 +55,4 @@ The GameObject class is an interface for all the game objects available in the g
 
 The battle feature is quite essential for the game to be interesting at all. It implements features for creating a turn-based combat system between two players, each player controlling up to three units.
 
-<sup>Battle: [folder](battle/) | [description](battle/README.md#description) | [pseudo-code](battle/README.md#pseudo-code)</sup>
+<sup>Battle: [folder](battle/) | [description](battle/#description) | [pseudo-code](battle/#pseudo-code)</sup>
