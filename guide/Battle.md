@@ -1,5 +1,9 @@
 #Battle#
 
+<sup>[Description](#description) | [Pseudo-code](#pseudo-code)</sup>
+
+###Description###
+
 In a battle, two players engage with their units in combat. The two players will take turns in making moves in order to defeat the opponent by killing all its units. Each player engages with a maximum of three units:
 
 | Player 1  | Player 2  |
@@ -13,3 +17,11 @@ The attacker wil commence the battle, and starts by ordering his first unit to p
 For each unit, the player must:
 1. Choose an ability
 2. Pick targets to affect
+
+When the player has ordered each of its units, all the BattleActions are executed. If this does not finish the battle (kill the remaining opponents' units), the turn will be passed to the opponent.
+
+###Pseudo-code###
+  
+  ```java
+  //TODO: Make pseudo-code
+  ```
