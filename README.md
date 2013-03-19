@@ -31,4 +31,4 @@ However, many actions can only be done through the graphical user interface, pro
 
 ##Plan##
 
-The progression of the project is well documented in the [readme](plan/README.md) under the plan-folder. It contains data on how far we've come on our project, along with documentation on all parts of the code. It is still under development, but will be ready by kickoff 24th of March.
+The progression of the project is well documented in the [plan-folder](plan/#plan). It contains data on how far we've come on our project, along with documentation on all parts of the code. It is still under development, but will be ready by kickoff 24th of March.
