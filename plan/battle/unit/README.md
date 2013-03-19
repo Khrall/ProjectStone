@@ -12,4 +12,6 @@ The Unit class will be far more complicated than the one provided here, but we d
   int hp, mp, attack, defense, etc ..
   list availableabilities
   string name
+  
+  //TODO: Create constructor, simply assigns attributes, available abilities and name
   ```
