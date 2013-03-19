@@ -11,7 +11,7 @@ This document holds the steps towards completion of Project Stone. It is not ver
         1. [InanimateObject](#inanimateobject) [0%]
         2. [InteractiveObject](#interactiveobject) [0%]
         3. [UnitObject](#unitobject) [0%]
-3.     
+3. [Battle development](#battle-development) [0%]    
 
 ##Data##
 
@@ -50,3 +50,9 @@ The GameObject class is an interface for all the game objects available in the g
 ####UnitObject###
 
 *An own folder will be created for the UnitObject class*
+
+##Battle development##
+
+The battle feature is quite essential for the game to be interesting at all. It implements features for creating a turn-based combat system between two players, each player controlling up to three units.
+
+<sup>Battle: [folder](battle/) | [description](battle/README.md#description) | [pseudo-code](battle/README.md#pseudo-code)</sup>
