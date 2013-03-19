@@ -56,3 +56,15 @@ The GameObject class is an interface for all the game objects available in the g
 The battle feature is quite essential for the game to be interesting at all. It implements features for creating a turn-based combat system between two players, each player controlling up to three units.
 
 <sup>Battle: [folder](battle/) | [description](battle/#description) | [pseudo-code](battle/#pseudo-code)</sup>
+
+###BattleAbility
+
+Battle abilities are pretty much abilities used in battle. They can be harmful or beneficial in various ways, and have different ranges targets and magnitudes.
+
+<sup>Battle: [folder](battle/ability) | [description](battle/ability#description) | [pseudo-code](battle/ability#pseudo-code)</sup>
+
+###BattleAction###
+
+Battle actions are simply a way to store information about what's going to happen when the player has ordered his units.
+
+<sup>Battle: [folder](battle/action) | [description](battle/action#description) | [pseudo-code](battle/action#pseudo-code)</sup>
