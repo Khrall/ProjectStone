@@ -4,7 +4,7 @@
 
 ###Description###
 
-The BattleAbility class holds the name of an ability, its "class" which classifies its nature, and the range of targets the ability may be used on.
+The BattleAbility class holds the name of an ability, its "class" which classifies its nature, its magnitude, and the range of targets the ability may be used on.
 
 | abilityClass    | classification  | effect                    |
 |:---------------:|:---------------:|:-------------------------:|
@@ -29,8 +29,7 @@ The BattleAbility class holds the name of an ability, its "class" which classifi
 ###Pseudo-code###
 
   ```java
-  int hp, mp, attack, defense, etc ..
-  list availableAbilities
+  int abilityClass, magnitude, targetRange
   string name
   
   //TODO: Create constructor, simply assigns attributes, available abilities and name
