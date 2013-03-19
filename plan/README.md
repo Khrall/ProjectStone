@@ -11,7 +11,9 @@ This document holds the steps towards completion of Project Stone. It is not ver
         - [InanimateObject](#inanimateobject) [0%]
         - [InteractiveObject](#interactiveobject) [0%]
         - [UnitObject](#unitobject) [0%]
-- [Battle development](#battle-development) [0%]    
+- [Battle development](#battle-development) [0%]
+    - [BattleAbility](#battleability)
+    - [BattleAction](#battleaction)
 
 ##Data##
 
