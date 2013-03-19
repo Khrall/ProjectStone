@@ -4,11 +4,11 @@ This is a game development project going by the name of “Project Stone”, a h
 
 ###Table of Contents###
 
-1. [Basics](#basics)
-    1. [Objective](#objective)
-    2. [Surroundings](#surroundings)
-    3. [Interactivity](#interactivity)
-2. [Plan](#plan)
+- [Basics](#basics)
+    - [Objective](#objective)
+    - [Surroundings](#surroundings)
+    - [Interactivity](#interactivity)
+- [Plan](#plan)
 
 ##Basics##
 
