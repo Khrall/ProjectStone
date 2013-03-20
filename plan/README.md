@@ -86,6 +86,10 @@ The GameObject class is an interface for all the game objects available in the g
 
 *An own folder will be created for the UnitObject class*
 
+###Player###
+
+The Player class holds information on the player in terms of how much resources the player has, which units it controls, and which city it owns.
+
 ###Battle development###
 
 The battle feature is quite essential for the game to be interesting at all. It implements features for creating a turn-based combat system between two players, each player controlling up to three units.
