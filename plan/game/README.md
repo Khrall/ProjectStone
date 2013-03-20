@@ -8,10 +8,10 @@ The different classes that lie "under" the Game class are as follows:
 
 | Class                     | Links                                                                             |
 |---------------------------|-----------------------------------------------------------------------------------|
-| Tile                      | [Description](tile/#description), [Pseudo-Code](tile/#pseudo-code)                |
-| GameObject                | [Description](gameobject/#description), [Pseudo-Code](gameobject/#pseudo-code)    |
-| Player                    | [Description](player/#description), [Pseudo-Code](player/#pseudo-code)            |
-| Battle                    | [Description](battle/#description), [Pseudo-Code](battle/#pseudo-code)            |
+| Tile                      | [Description](tile/#description), [Pseudo-code](tile/#pseudo-code)                |
+| GameObject                | [Description](gameobject/#description), [Pseudo-code](gameobject/#pseudo-code)    |
+| Player                    | [Description](player/#description), [Pseudo-code](player/#pseudo-code)            |
+| Battle                    | [Description](battle/#description), [Pseudo-code](battle/#pseudo-code)            |
 
 ###Pseudo-code###
 
