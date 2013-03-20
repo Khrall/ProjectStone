@@ -32,5 +32,5 @@ The BattleAbility class holds the name of an ability, its "class" which classifi
   int abilityClass, magnitude, targetRange
   string name
   
-  //TODO: Create constructor, simply assigns attributes, available abilities and name
+  //TODO: Create constructor, simply assigns variables
   ```
