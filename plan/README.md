@@ -4,7 +4,9 @@ This document holds the steps towards completion of Project Stone. It is not ver
 
 ###Table of Contents###
 
-- [Data](#data)
+- [Tracker](#tracker)
+    - [Progression tracker](#progression-tracker)
+    - [Schedule](#schedule)
 - [Art development](#art-development) [0%]
     - [Inanimate object sprites](#inanimate-object-sprites) [0%]
     - [Interactive object sprites](#interactive-object-sprites) [0%]
@@ -28,13 +30,50 @@ This document holds the steps towards completion of Project Stone. It is not ver
 - [GUI](#gui) [0%]
 
 
-##Data##
+##Tracker##
 
-| Progression           | 0%            |
-| --------------------- |:-------------:|
-| Kickoff               | 24th of March |
-| Deadline              | 24th of April |
-| Lines of code         | 0             |
+###Progression tracker###
+
+| Field                     | Progression   |
+| ------------------------- |:-------------:|
+| Art-development           | 0%            |
+| Game-development          | 0%            |
+| Client/Host development   | 0%            |
+| ChaosEngine development   | 0%            |
+| GUI development           | 0%            |
+| Total                     | 0%            |
+
+###Schedule###
+
+| Member(s)             | Goal/Event                    | Date          |
+|:---------------------:| ----------------------------- |:-------------:|
+| All                   | Kickoff                       | 24th of March |
+| Olav                  | Draft for Battle              | 28th of March |
+| Raymi                 | Draft for Art                 | 29th of March |
+| Olav                  | Draft for City                | 30th of March |
+| Olav                  | Draft for Player              | 31th of March |
+| Raymi                 | Draft for Game                | 31th of March |
+| Olav                  | Draft for InanimateObject     | 2nd of April  |
+| Raymi                 | Draft for Tile                | 4th of April  |
+| Olav                  | Draft for InteractiveObject   | 4th of April  |
+| All                   | Chaos weekend #1 starts       | 5th of April  |
+| Raymi                 | Draft for UnitObject          | 6th of April  |
+| Olav                  | Finished Battle, City, Player | 7th of April  |
+| Raymi                 | Draft for GUI and ChaosEngine | 7th of April  |
+| All                   | Chaos weekend #1 ends         | 7th of April  |
+| All                   | Finished objects              | 11th of April |
+| All                   | Chaos weekend #2 starts       | 12th of April |
+| Raymi                 | Finished GUI                  | 14th of April |
+| Olav                  | Draft Game elements design    | 14th of April |
+| All                   | Chaos weekend #2 ends         | 14th of April |
+| Raymi                 | Finished Game                 | 17th of April |
+| Raymi                 | Finished Art and ChaosEngine  | 18th of April |
+| All                   | Chaos weekend #3 starts       | 19th of April |
+| All                   | Draft for Client/Host         | 20th of April |
+| All                   | Finished Client/Host          | 21th of April |
+| All                   | Deadline                      | 24th of April |
+| All                   | Mandatory get drunk           | 26th of April |
+
 
 ##Art development##
 
