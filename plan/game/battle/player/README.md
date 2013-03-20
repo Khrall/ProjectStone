@@ -12,5 +12,5 @@ The Player is a class that does not play a great role in the Battle, however eve
   int bonusAttack, bonusDefense, etc ..
   string name
   
-  //TODO: Create constructor, simply initiates variables
+  //TODO: Create constructor, simply assigns variables
   ```
