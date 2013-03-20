@@ -1,3 +1,3 @@
-#Lore#
+One year has passed since the two primal forces of Xibir clashed and vanquished one another on the grassy plains of Gahrahon, leaving nothing but ashes and dust to claim what was left. Abandoned ever since, inexplicable events have taken place on the barren graveyard, events unforeseen even by those who see the most. A secret is being kept safe in Gahrahon, by nothing more than mere fear and awe, a secret that is soon to be unveiled.
 
-Two months have passed since the two primal forces of Xibir tore on another apart at the gates of Durûn, leaving nothing but ashes and dust to claim whats left. But while the world's gaze was fixed upon the appending doom, there were some who saw an opportunity.
+In the north, the Kaldir have found an ally in the newly awakened Ovirthir. However, they are still left with no homeland to call their own. Under the leadership of   
