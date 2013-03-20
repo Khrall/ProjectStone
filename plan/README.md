@@ -6,9 +6,9 @@ This document holds the steps towards completion of Project Stone. It is not ver
 
 - [Data](#data)
 - [Art development](#art-development) [0%]
-    - [Inanimate sprites](#inanimate-sprites) [0%]
-    - [Interactive sprites](#interactive-sprites) [0%]
-    - [Unit sprites](#unit-sprites) [0%]
+    - [Inanimate object sprites](#inanimate-object-sprites) [0%]
+    - [Interactive object sprites](#interactive-object-sprites) [0%]
+    - [Unit object sprites](#unit-object-sprites) [0%]
     - [GUI sprites](#gui-sprites) [0%]
 - [Game development](#game-development) [0%]
     - [Tile](#tile) [0%]
@@ -37,6 +37,26 @@ This document holds the steps towards completion of Project Stone. It is not ver
 | Kickoff               | 24th of March |
 | Deadline              | 24th of April |
 | Lines of code         | 0             |
+
+##Art development##
+
+A lot of energy is put in the artwork of the game. There can be no true rpg without beautiful surroundings and interesting character designs, but of course the GUI matters a lot as well.
+
+###Inanimate object sprites###
+
+Sprites for objects that are not interacted with, such as texture and terrain.
+
+###Interactive object sprites###
+
+Sprites for objects ready for interaction, such as resources.
+
+###Unit object sprites###
+
+Sprites for the various units found throughout the game.
+
+###GUI sprites###
+
+Sprites for all the different GUI-elements implemented in the game.
 
 ##Map development##
 
