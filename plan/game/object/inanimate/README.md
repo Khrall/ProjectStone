@@ -6,7 +6,7 @@ The InanimateObject class covers objects like texture and terrain, objects that 
 
 Inanimate objects come in different "states", which identify how the inanimate object should be drawn to the canvas:
 
-| Type        | posZ    | States describe           |
+| Object      | posZ    | States describe           |
 |-------------|:-------:|---------------------------|
 | Grass       | 0       | Rotation/shape            |
 | Dirt        | 1       | Rotation/shape            |
