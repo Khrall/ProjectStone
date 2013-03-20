@@ -6,7 +6,9 @@ The GameObject superclass creates a fundament for all subclasses. Alas, since th
 
 When objects are drawn, we want some objects to be drawn above others, and thus we have created a new dimension for all the objects, called Z. If one object has a higher posZ than another, the first one will be drawn on top of the other. This also applies when we click a Tile, usually when we click a Tile we expect to do an action based on the topmost object.
 
-Here's a full list of objects and their respective ID's and positions in z-direction <sub>Jump to [pseudo-code](#pseudo-code)</sub>
+Here's a full list of objects and their respective ID's and positions in z-direction
+
+<sub>Jump to [pseudo-code](#pseudo-code)</sub>
 
 | Object            | ID    | posZ  |
 |-------------------|:-----:|:-----:|
