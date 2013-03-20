@@ -71,6 +71,7 @@ This document holds the steps towards completion of Project Stone. It is not ver
 | All                   | Chaos weekend #3 starts       | 19th of April |
 | All                   | Draft for Client/Host         | 20th of April |
 | All                   | Finished Client/Host          | 21th of April |
+| All                   | Chaos weekend #3 ends         | 21th of April |
 | All                   | Deadline                      | 24th of April |
 | All                   | Mandatory get drunk           | 26th of April |
 
