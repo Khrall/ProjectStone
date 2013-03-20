@@ -6,7 +6,7 @@ The InanimateObject class covers objects like texture and terrain, objects that 
 
 Inanimate objects come in different "states", which identify how the inanimate object should be drawn to the canvas:
 
-| Type        | Integer | States describe           |
+| Type        | posZ    | States describe           |
 |-------------|:-------:|---------------------------|
 | Grass       | 0       | Rotation/shape            |
 | Dirt        | 1       | Rotation/shape            |
@@ -19,5 +19,7 @@ Inanimate objects come in different "states", which identify how the inanimate o
 ###Pseudo-code###
 
   ```Java
-  int type, state;
+  int state;
+  
+  //TODO: Create constructor: Assigns variables
   ```
