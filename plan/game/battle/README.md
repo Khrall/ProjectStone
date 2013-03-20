@@ -23,7 +23,7 @@ When the player has ordered each of its units, all the BattleActions are execute
 
 ###Pseudo-code###
 
-_NOTE:_ Before attempting to read the pseudo-code, you should study the other classes: [BattleAbility](ability/#description), [BattleAction](action/), [Player](player/#description) and [Unit](unit/#description).
+_NOTE:_ Before attempting to read the pseudo-code, you should study the other classes: [BattleAbility](ability/#description), [BattleAction](action/#description), [Player](player/#description) and [Unit](unit/#description).
 
   ```java
   list players
