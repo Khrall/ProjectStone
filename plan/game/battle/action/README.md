@@ -13,5 +13,5 @@ The BattleAction consists of a source Unit, a list of targeted Units, and a Batt
   list targets
   battleAbility ability
   
-  //TODO: Create constructor, simply assigns attributes, available abilities and name
+  //TODO: Create constructor, simply assigns variables
   ```
