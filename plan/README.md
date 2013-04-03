@@ -7,10 +7,10 @@ This document holds the steps towards completion of Project Stone. It is not ver
 - [Tracker](#tracker)
     - [Progression tracker](#progression-tracker)
     - [Schedule](#schedule)
-- [Art development](#art-development) [0%]
-    - [Inanimate object sprites](#inanimate-object-sprites) [0%]
+- [Art development](#art-development) [15%]
+    - [Inanimate object sprites](#inanimate-object-sprites) [10%]
     - [Interactive object sprites](#interactive-object-sprites) [0%]
-    - [Unit object sprites](#unit-object-sprites) [0%]
+    - [Unit object sprites](#unit-object-sprites) [15%]
     - [GUI sprites](#gui-sprites) [0%]
 - [Game development](#game-development) [0%]
     - [Tile](#tile) [0%]
@@ -36,7 +36,7 @@ This document holds the steps towards completion of Project Stone. It is not ver
 
 | Field                     | Progression   |
 | ------------------------- |:-------------:|
-| Art-development           | 0%            |
+| Art-development           | 15%           |
 | Game-development          | 0%            |
 | Client/Host development   | 0%            |
 | ChaosEngine development   | 0%            |
